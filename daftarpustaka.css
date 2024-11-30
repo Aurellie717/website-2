@@ -1,0 +1,24 @@
+.header{
+    width: 1280px;
+    position: fixed;
+}
+
+.h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background: linear-gradient(135deg, #394269, #394269); 
+}
+
+.box {
+    width: 100x;
+    height: 300px;
+    border: 3px solid white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    background-origin: padding-box;
+    color: white;
+}

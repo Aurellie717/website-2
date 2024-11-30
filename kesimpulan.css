@@ -1,0 +1,54 @@
+.header{
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    top: 0;
+    left: 0;
+    margin: 0;
+    font-family: 'The Seasons', serif;
+    border: #A3B2DF;
+    display: block;
+}
+
+.judul{
+    text-align: center;
+    color: white;
+}
+
+.h1{
+    color: black;
+    display: block;
+}
+
+body {
+    font-family: 'The Seasons', serif;
+    background: linear-gradient(135deg, #394269, #394269); 
+    color: white;
+    line-height: 1.6;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Styling Section Box */
+.section-box1 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box2 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}

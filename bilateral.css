@@ -1,0 +1,106 @@
+.header{
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+    top: 0;
+    left: 0;
+    margin: 0;
+}
+
+.h1{
+    text-align: center;
+    color: white;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #394269, #394269); 
+    color: white;
+    line-height: 1.6;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Styling Section Box */
+.section-box1 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box2 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box3{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box4{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box5{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+/* Styling teks di dalam section */
+.section-box p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.indoarab{
+    height: 500px;
+    width: 1000px;
+    margin: 20px;
+}
+
+.indosg{
+    height: 500px;
+    width: 1000px;
+    margin: 20px;
+}
+
+.indomalay{
+    height: 500px;
+    width: 1000px;
+    margin: 20px;
+}
+
+.indokorea{
+    height: 500px;
+    width: 1000px;
+    margin: 20px;
+}

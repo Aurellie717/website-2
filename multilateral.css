@@ -1,0 +1,120 @@
+.header{
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    top: 0;
+    left: 0;
+    margin: 0;
+    font-family: 'The Seasons', serif;
+    border: #A3B2DF;
+    display: block;
+}
+
+.h1{
+    text-align: center;
+    color: #ffffff;
+    display: block;
+}
+
+body {
+    font-family: 'The Seasons', serif;
+    background: linear-gradient(135deg, #394269, #394269); 
+    color: white;
+    line-height: 1.6;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Styling Section Box */
+.section-box1 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box2 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box3{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box4{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+.section-box5{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid black;
+}
+
+/* Styling teks di dalam section */
+.section-box p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.wto{
+    height:500px;
+    width: 1150px;
+    margin: 10px;
+    align-content: center;
+    align-items: center;
+}
+
+.imf{
+    height: 500px;
+    width: 1150px;
+    margin: 10px;
+}
+
+*::-webkit-scrollbar{
+    display: none;
+}
+
+.unicef{
+    height: 350px;
+    width: 1000px;
+    margin: 10px;
+}
+
+.unhcr{
+    height: 500px;
+    width: 1000px;
+    margin: 10px;
+}
+
+.unesco{
+    height: 500px;
+    width: 1000px;
+    margin: 10px;
+}
